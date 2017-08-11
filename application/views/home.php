@@ -54,8 +54,8 @@
 									</ul>
 								</li>
 								<li><a href="left-sidebar.html">Chords</a></li>
-								<li><a href="right-sidebar.html">About</a></li>
-								<li><a href="no-sidebar.html">Contact</a></li>
+								<li><a href="right-sidebar.html">Contact</a></li>
+								<li><a href="no-sidebar.html">About</a></li>
 							</ul>
 						</nav>
 
